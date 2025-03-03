@@ -14,5 +14,5 @@ Research
 ======
 My PhD research focuses on developing a control framework for the bimanual manipulation of two independent underwater vehicle-manipulator systems. The framework
 will aim to allow for the intuitive definition of a general bimanual manipulation task while also accounting for the system's intrinsic constraints, environmental
-constraints and task-specific limitations. With direct applications in underwater industries such as offshore inspection and maintenance and nuclear pond decommissioning, or any industry where cooperative
+constraints and task-specific limitations. With direct applications in underwater industries such as offshore inspection and maintenance, and nuclear pond decommissioning, or any industry where cooperative
 manipulation could be used.

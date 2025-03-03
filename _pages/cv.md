@@ -14,6 +14,9 @@ Education
 * Pursuing a Ph.D in Electrical and Electronic Engineering, The University of Manchester (2023 - Now)
 * BEng in Mechatronic Engineering, 2023
   * Thesis title: Implementation of a Constrained Task-Space Trajectory Tracking Controller for a Drawing Robot
+    * Simulated a 7 DoF robotic serial manipulator drawing a user-defined shape in CoppeliaSim using dual quaternion algebra
+    * UUsed a kinematic controller that implemented a linearly-constrained quadratic optimization problem
+    * Defined task-space and joint-space constraints using vector-field inequalities and geometric primitives defined in the dual quaternion space for collision avoidance 
  
 Non-academic experience
 ======

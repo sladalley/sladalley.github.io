@@ -21,7 +21,7 @@ Education
 Non-academic experience
 ======
 * [06/2022 - 09/2022] Summer Internship at Labman Automation
-  * led the end-to-end development of a product for an international client
+  * Led the end-to-end development of a product for an international client
   * Designed the concept from the ground up, overseeing planning and execution
   * Manageed the manufacturing and iterative testing process to refine the design
   * Compiled and presented key findings and recommendations to the client
